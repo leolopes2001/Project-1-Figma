@@ -1,0 +1,109 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.triangle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 195px;
+    margin-bottom: 122.65px;
+}
+input{
+    display: block;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+input::placeholder{
+    padding-left: 19.28px;
+    color: #969696;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+}
+.input1{
+    margin-bottom: 21px;
+}
+.input2{
+    margin-bottom: 35px;
+}
+.forgot-link{
+    display: block;
+    color: #000000;
+    text-align: right;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+}
+button{
+    display: block;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    margin-top: 38px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 21px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+}
+.first-paragraph{
+    display: block;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+}
+strong{
+    color: black;
+}
+.second-paragraph{
+    display: block;
+    text-align: center;
+    margin-top: 62px;
+    margin-bottom: 18.5px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+div > img{
+    margin-bottom: 80.5px;
+}
+.img2{
+    padding-left: 16.5px;
+    padding-right: 16.5px;
+}
+#box1{
+    display: block;
+    width: 321px;
+    margin-left: auto;
+    margin-right: auto;
+}
